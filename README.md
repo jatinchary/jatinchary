@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinchary&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinchary" alt="jatinchary" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/charyjatin" target="blank"><img src="https://img.shields.io/twitter/follow/charyjatin?logo=twitter&style=for-the-badge" alt="charyjatin" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://jatinchary.netlify.app/](https://jatinchary.netlify.app/)
